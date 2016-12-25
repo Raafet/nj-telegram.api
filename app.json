@@ -1,0 +1,7 @@
+{
+  "name": "telegram.link",
+  "description": "Telegram API library (javascript, node.js) http://www.telegram.link",
+  "repository": "https://github.com/enricostara/telegram.link",
+  "logo": "https://github.com/enricostara/telegram.link/raw/master/telegram.link.png",
+  "keywords": ["node"]
+}
