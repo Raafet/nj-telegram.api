@@ -3,6 +3,7 @@
 [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url] [![Dependency Status][gemnasium-image]][gemnasium-url]
 [![Sauce Test Status][sauce-image]][sauce-url]
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 **ALPHA SOFTWARE**
 
